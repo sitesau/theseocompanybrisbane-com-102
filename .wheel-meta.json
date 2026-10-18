@@ -1,0 +1,22 @@
+{
+  "wheel_id": 403,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-com-102",
+  "project": "seo-services-brisbane-suburb-guide-a43bc7804130137031612143b0e1",
+  "parent_t1_ref": "theseocompanybrisbane-com-150",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane suburb guide",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-com-102/",
+  "tier": "T2",
+  "writeback_nonce": "5bc5caa9fe6182ba",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-f290305ce4ca1652b023caf5e7e057eadfa0254d/",
+      "anchor": "seo services brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
